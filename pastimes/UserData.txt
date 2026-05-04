@@ -1,0 +1,5 @@
+John Doe,john@abc.co.za,123456
+Jane Smith,jane@abc.co.za,abcdef
+Mike Brown,mike@abc.co.za,pass123
+Sara Lee,sara@abc.co.za,hello123
+Tom White,tom@abc.co.za,test456
